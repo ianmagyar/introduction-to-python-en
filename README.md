@@ -18,7 +18,7 @@ Lectures and classes take place on Monday in the BN3 building.
 |:-----------------------------:|:-----------------------------------------:|:------------------------------------------------------------:|
 |   1. week<br>20. 2. - 26. 2.  |   [Setting up the programming environment](labs/lab01-setting-up.ipynb)<br>[First programs in Python](labs/lab02-first-baby-steps.ipynb)          |        [Syntax, language constructs](lectures/Lecture-01.pdf)<br>([code from lecture](lectures/codes/lecture01.ipynb))        |
 |   2. week<br>27. 2. - 5. 3.   |              [Algorithmization](labs/lab03-functions-and-algorithmization.ipynb)             |     [Functions, recursion, generators, lambda expressions](lectures/Lecture-02.pdf)<br>([code from lecture](lectures/codes/lecture02.ipynb))     |
-|   3. week<br>6. 3. - 12. 3.   |     Working with basic data structures    |             Strings, lists, tuples, dictionaries             |
+|   3. week<br>6. 3. - 12. 3.   |     [Working with basic data structures](labs/lab04-a-look-at-the-table.ipynb)    |             [Strings, lists, tuples, dictionaries](lectures/Lecture-03.pdf)<br>([code from lecture](lectures/codes/lecture03.ipynb))             |
 |   4. week<br>13. 3. - 19. 3.  |                   Wordle                  |     Test 1<br>Testing, debugging, exceptions and errors      |
 |   5. week<br>20. 3. - 26. 3.  |               When to Party?              |    Algorithm complexity, optimization, dynamic programming   |
 |   6. week<br>27. 3. - 2. 4.   |               Wordle with OOP             |     Test 2<br>Introduction to object-oriented programming    |
