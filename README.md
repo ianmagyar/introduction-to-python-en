@@ -20,7 +20,7 @@ Lectures and classes take place on Monday in the BN3 building.
 |   2. week<br>27. 2. - 5. 3.   |              [Algorithmization](labs/lab03-functions-and-algorithmization.ipynb)             |     [Functions, recursion, generators, lambda expressions](lectures/Lecture-02.pdf)<br>([code from lecture](lectures/codes/lecture02.ipynb))     |
 |   3. week<br>6. 3. - 12. 3.   |     [Working with basic data structures](labs/lab04-a-look-at-the-table.ipynb)    |             [Strings, lists, tuples, dictionaries](lectures/Lecture-03.pdf)<br>([code from lecture](lectures/codes/lecture03.ipynb))             |
 |   4. week<br>13. 3. - 19. 3.  |                   [Wordle](labs/lab05-wordle.ipynb)                  |     Test 1<br>[Testing, debugging, exceptions and errors](lectures/Lecture-04.pdf)<br>([code from lecture](lectures/codes/lecture04.ipynb))      |
-|   5. week<br>20. 3. - 26. 3.  |               When to Party?              |    Algorithm complexity, optimization, dynamic programming   |
+|   5. week<br>20. 3. - 26. 3.  |               [When to Party?](labs/lab06-when-to-party.ipynb)              |    [Algorithm complexity, optimization, dynamic programming](lectures/Lecture-05.pdf)<br>([code from lecture](lectures/codes/lecture05.ipynb))   |
 |   6. week<br>27. 3. - 2. 4.   |               Wordle with OOP             |     Test 2<br>Introduction to object-oriented programming    |
 |   7. week<br>3. 4. - 9. 4.    |         Modelling poker using OOP         |                 OOP principles and metamethods               |
 |   8. week<br>10. 4. - 16. 4.  |                  Easter                   |                            Easter                            |
