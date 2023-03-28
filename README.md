@@ -21,8 +21,8 @@ Lectures and classes take place on Monday in the BN3 building.
 |   3. week<br>6. 3. - 12. 3.   |     [Working with basic data structures](labs/lab04-a-look-at-the-table.ipynb)    |             [Strings, lists, tuples, dictionaries](lectures/Lecture-03.pdf)<br>([code from lecture](lectures/codes/lecture03.ipynb))             |
 |   4. week<br>13. 3. - 19. 3.  |                   [Wordle](labs/lab05-wordle.ipynb)                  |     Test 1<br>[Testing, debugging, exceptions and errors](lectures/Lecture-04.pdf)<br>([code from lecture](lectures/codes/lecture04.ipynb))      |
 |   5. week<br>20. 3. - 26. 3.  |               [When to Party?](labs/lab06-when-to-party.ipynb)              |    [Algorithm complexity, optimization, dynamic programming](lectures/Lecture-05.pdf)<br>([code from lecture](lectures/codes/lecture05.ipynb))   |
-|   6. week<br>27. 3. - 2. 4.   |               Wordle with OOP             |     Test 2<br>Introduction to object-oriented programming    |
-|   7. week<br>3. 4. - 9. 4.    |         Modelling poker using OOP         |                 OOP principles and metamethods               |
+|   6. week<br>27. 3. - 2. 4.   |               [Wordle in OOP](labs/lab07-wordle-in-oop.ipynb)             |     Test 2<br>[Introduction to object-oriented programming](lectures/Lecture-06.pdf)<br>([code from lecture](lectures/codes/lecture06.ipynb))    |
+|   7. week<br>3. 4. - 9. 4.    |         [Modelling poker using OOP](labs/lab08-poker-in-oop.ipynb)         |                 [OOP principles and metamethods](lectures/Lecture-07.pdf)<br>([code from lecture](lectures/codes/lecture07.zip))               |
 |   8. week<br>10. 4. - 16. 4.  |                  Easter                   |                            Easter                            |
 |   9. week<br>17. 4. - 23. 4.  |             Calculating pi                |                 Test 3<br>Simple simulations                 |
 |  10. week<br>24. 4. - 30. 4.  |     Simulating the flight of mosquitos    |                    Models and simulation                     |
