@@ -14,7 +14,7 @@ Lecturer: [Ing. Ján Magyar, PhD.](http://www.cloudai.sk/people-janmagyar/).
 ## Lecture and class plan <a name="plan"></a>
 Lectures and classes take place on Monday in the BN3 building.
 
-|                               |                  Cvičenie                 |                           Prednáška                          |
+|                               |                     Lab                   |                            Lecture                           |
 |:-----------------------------:|:-----------------------------------------:|:------------------------------------------------------------:|
 |   1. week<br>20. 2. - 26. 2.  |   [Setting up the programming environment](labs/lab01-setting-up.ipynb)<br>[First programs in Python](labs/lab02-first-baby-steps.ipynb)          |        [Syntax, language constructs](lectures/Lecture-01.pdf)<br>([code from lecture](lectures/codes/lecture01.ipynb))        |
 |   2. week<br>27. 2. - 5. 3.   |              [Algorithmization](labs/lab03-functions-and-algorithmization.ipynb)             |     [Functions, recursion, generators, lambda expressions](lectures/Lecture-02.pdf)<br>([code from lecture](lectures/codes/lecture02.ipynb))     |
@@ -24,9 +24,9 @@ Lectures and classes take place on Monday in the BN3 building.
 |   6. week<br>27. 3. - 2. 4.   |               [Wordle in OOP](labs/lab07-wordle-in-oop.ipynb)             |     Test 2<br>[Introduction to object-oriented programming](lectures/Lecture-06.pdf)<br>([code from lecture](lectures/codes/lecture06.ipynb))    |
 |   7. week<br>3. 4. - 9. 4.    |         [Modelling poker using OOP](labs/lab08-poker-in-oop.ipynb)         |                 [OOP principles and metamethods](lectures/Lecture-07.pdf)<br>([code from lecture](lectures/codes/lecture07.zip))               |
 |   8. week<br>10. 4. - 16. 4.  |                  Easter                   |                            Easter                            |
-|   9. week<br>17. 4. - 23. 4.  |             Calculating pi                |                 Test 3<br>Simple simulations                 |
-|  10. week<br>24. 4. - 30. 4.  |     Simulating the flight of mosquitos    |                    Models and simulation                     |
-|  11. week<br>1. 5. - 7. 5.    |         Simulating plane boarding         |                         Test 4<br>Exam                       |
+|   9. week<br>17. 4. - 23. 4.  |             [Estimating pi](labs/lab09-estimating-pi.ipynb)                |                 Test 3<br>[Simple simulations](lectures/Lecture-08.pdf)<br>([code from lecture](lectures/codes/lecture08.zip))                 |
+|  10. week<br>24. 4. - 30. 4.  |     [Simulating the flight of mosquitos](labs/lab10-mosquitos.ipynb)    |                    [Models and simulation](lectures/Lecture-09.pdf)<br>([code from lecture](lectures/codes/lecture09.zip))                     |
+|  11. week<br>1. 5. - 7. 5.    |                                           |                         Test 4<br>Exam                       |
 
 ## Grading <a name="grading"></a>
 
