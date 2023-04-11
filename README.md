@@ -40,7 +40,14 @@ You can get 100 points for the entire course (40 + 60); you must get more than h
     * [Project with tests](assignments/Assignment1.zip)
 
 2. Modelling a game using OOP (deadline 14. 4. 2023)
+
+    * [Tasks](assignments/Assignment2.pdf)
+    * [Project](assignments/Assignment2.zip)
+
 3. Simulation (deadline 5. 5. 2023)
+
+    * [Tasks](assignments/Assignment3.pdf)
+    * [Project with tests](assignments/Assignment3.zip)
 
 ## Literature <a name="textbooks"></a>
 
