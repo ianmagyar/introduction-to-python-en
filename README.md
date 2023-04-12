@@ -43,6 +43,7 @@ You can get 100 points for the entire course (40 + 60); you must get more than h
 
     * [Tasks](assignments/Assignment2.pdf)
     * [Project](assignments/Assignment2.zip)
+    * [Tests](assignments/Assignment2_tests.zip)
 
 3. Simulation (deadline 5. 5. 2023)
 
