@@ -31,7 +31,7 @@ Lectures and classes take place on Monday in the BN3 building.
 Meetings plan:
 
 * **19. 2. 2024** - introduction
-* **26. 2. 2024** - Lectures 1 - 3
+* **26. 2. 2024** - Lectures 1 - 3 (watch videos)
 * **4. 3. 2024** - Labs 1 - 3 (work at home)
 * **11. 3. 2024** - code review; Lectures 4 & 5
 * **18. 3. 2024** - Labs 4 & 5 (work at home)
