@@ -61,6 +61,10 @@ You can get 100 points for the entire course (40 + 60); you must get more than h
 
 3. Simulation (deadline 3. 5. 2024)
 
+    * [Tasks](assignments/Assignment3.pdf)
+    * [Project](assignments/Assignment3.zip)
+    * [Tests](assignments/Assignment3_tests.zip)
+
 ## Literature <a name="textbooks"></a>
 
 * GUTTAG, J. V.: Introduction to Computation and Programming Using Python. Revised and expanded edition, MIT Press, 2013 ([link](https://doc.lagout.org/programmation/python/Introduction%20to%20Computation%20and%20Programming%20using%20Python%20%28rev.%20ed.%29%20%5BGuttag%202013-08-09%5D.pdf))
